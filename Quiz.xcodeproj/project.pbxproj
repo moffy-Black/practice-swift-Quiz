@@ -15,6 +15,7 @@
 		E78EE697267DFCE70009AA97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E78EE695267DFCE70009AA97 /* LaunchScreen.storyboard */; };
 		E78EE6A2267DFCE70009AA97 /* QuizTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78EE6A1267DFCE70009AA97 /* QuizTests.swift */; };
 		E78EE6AD267DFCE70009AA97 /* QuizUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78EE6AC267DFCE70009AA97 /* QuizUITests.swift */; };
+		E79134572684383F00C5823F /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79134562684383F00C5823F /* QuizViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E78EE6A8267DFCE70009AA97 /* QuizUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E78EE6AC267DFCE70009AA97 /* QuizUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizUITests.swift; sourceTree = "<group>"; };
 		E78EE6AE267DFCE70009AA97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E79134562684383F00C5823F /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E78EE68C267DFCE50009AA97 /* SceneDelegate.swift */,
 				E78EE68E267DFCE50009AA97 /* ViewController.swift */,
 				E78EE690267DFCE50009AA97 /* Main.storyboard */,
+				E79134562684383F00C5823F /* QuizViewController.swift */,
 				E78EE693267DFCE70009AA97 /* Assets.xcassets */,
 				E78EE695267DFCE70009AA97 /* LaunchScreen.storyboard */,
 				E78EE698267DFCE70009AA97 /* Info.plist */,
@@ -261,6 +264,7 @@
 				E78EE68F267DFCE50009AA97 /* ViewController.swift in Sources */,
 				E78EE68B267DFCE50009AA97 /* AppDelegate.swift in Sources */,
 				E78EE68D267DFCE50009AA97 /* SceneDelegate.swift in Sources */,
+				E79134572684383F00C5823F /* QuizViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
